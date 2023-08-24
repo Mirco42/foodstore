@@ -30,7 +30,7 @@
     },
     "/2": {
       "get": {
-        "operationId": "listFoods",
+        "operationId": "listFoods2",
         "summary": "List Food",
         "produces": [
           "application/json"
@@ -53,7 +53,7 @@
     },
     "/3": {
       "get": {
-        "operationId": "listFoods",
+        "operationId": "listFoods3",
         "summary": "List Food",
         "produces": [
           "application/json"
