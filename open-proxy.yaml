@@ -1,10 +1,10 @@
 version: 1.0
 api:
   name: Foodstore
-  version: 3.0
+  version: 3.5
   displayName: Foodstore                 # optional
   description: a simple foodstore api    # optional
-
+  type: REST
 backend:
   url: https://example.com
 gateway:
